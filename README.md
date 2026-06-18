@@ -1,3 +1,9 @@
+          
+[Shopping Cart Plugins] – Fiuu VirtueMart Joomla 
+=====================
+
+<img src="https://user-images.githubusercontent.com/38641542/74416380-08e18800-4e80-11ea-9be4-3c3c211ffb9e.jpg">
+
 # 🚚 Repository Moved
 
 This repository has been moved to a new location and is no longer actively maintained.
@@ -11,12 +17,6 @@ All future updates, bug fixes, and feature enhancements will be published in the
 Thank you for your support.
 
 ---
-
-          
-[Shopping Cart Plugins] – Fiuu VirtueMart Joomla 
-=====================
-
-<img src="https://user-images.githubusercontent.com/38641542/74416380-08e18800-4e80-11ea-9be4-3c3c211ffb9e.jpg">
 
 Fiuu Plugin for Joomla VirtueMart Shopping Cart developed by Fiuu R&D team.
 
@@ -72,3 +72,4 @@ Channel/Partner Enquiry : channel-sa@fiuu.com <br>
 Media Contact : media-sa@fiuu.com <br>
 R&D and Tech-related Suggestion : technical-sa@fiuu.com <br>
 Abuse Reporting : abuse-sa@fiuu.com
+
